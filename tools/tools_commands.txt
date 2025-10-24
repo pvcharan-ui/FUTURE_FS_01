@@ -15,3 +15,14 @@ git branch -M main
 git remote add origin https://github.com/pvcharan-ui/FUTURE_FS_01.git
 git push -u origin main
 
+[2025-10-24 19:00] - Added commands used for Task1 setup and evidence collection (merged remote & local entries)
+Commands:
+git add .\tools\tools_commands.txt
+git commit -m "Added commands used for Task1 setup and evidence collection"
+git push
+
+Notes:
+- This file records important commands and artifacts for the project.
+- If additional commands were saved on the remote earlier, they are included here to maintain full history.
+
+
